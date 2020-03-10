@@ -6,4 +6,4 @@ Python implementation of Kmeans and Spectral Clustering.
 
 Origin picture first, Kmeans on the left, and Spectral clustering on the right.
 
-![](mango.png|width=100px) ![](mango_RGB.png) ![](mango_SC.png)
+<img src="mango.png" width="80%"> ![](mango_RGB.png) ![](mango_SC.png)
